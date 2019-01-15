@@ -1,0 +1,28 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="DesignForm-8D6788811708085" className="Windows_Form1" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D67888044AA03D" className="Automation1" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D67888187C6A97" className="Global_Container1" type="GlobalContainer" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="Script-8D6788828A1163E" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+            <Reference value="System.Core.dll" />
+            <Reference value="System.Data.dll" />
+            <Reference value="System.Design.dll" />
+            <Reference value="System.Drawing.dll" />
+            <Reference value="System.Web.dll" />
+            <Reference value="System.Windows.Forms.dll" />
+            <Reference value="System.Xml.dll" />
+            <Reference value="OpenSpan.Adapters.dll" />
+            <Reference value="OpenSpan.Adapters.Web.dll" />
+            <Reference value="OpenSpan.Adapters.Windows.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+  </DesignComponents>
+</Cache>

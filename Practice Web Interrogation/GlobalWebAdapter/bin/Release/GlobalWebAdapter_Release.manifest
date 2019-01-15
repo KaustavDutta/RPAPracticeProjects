@@ -1,0 +1,7 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="GlobalWebAdapter" fileName="GlobalWebAdapter.dll" assemblyName="GlobalWebAdapter.dll" id="Project-8D6787357A09AE1" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="2FDA1D3AF140F4424FE89DBD507D70">
+    <Assemblies>
+      <Assembly value="GlobalWebAdapter.dll" digest="3E647BAC3B4A6624F8297ADC4AC8F5" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

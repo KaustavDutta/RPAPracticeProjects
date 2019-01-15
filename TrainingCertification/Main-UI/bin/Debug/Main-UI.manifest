@@ -1,0 +1,15 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="Main_UI" fileName="Main_UI.dll" assemblyName="Main_UI.dll" id="Project-8D61C68D761A801" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Deployment" obfuscated="False" runtime="True" digest="611D09273BE61D52F8D36684825409">
+    <Assemblies>
+      <Assembly value="Main_UI.dll" digest="03F7A8616A4B591075D0F23D3C5481" />
+      <Assembly value="Main_UI.pdb" digest="B4FEC5ECD3B1373CB0AFC0923036BB" />
+      <Assembly value="CRMAdapter.dll" digest="0005AB975BAB3AB315DF97FFD2EC81" />
+      <Assembly value="TrainingWebAdapter.dll" digest="40C2DB7E3C276FB4F5CCD768464D71" />
+    </Assemblies>
+    <TranslatorFiles>
+      <File value="OpenSpan.Adapters.Virtual.dll" digest="B8EB176E846707BEC401BA75DB4C53" />
+      <File value="OpenSpan.WinInet.x32.dll" digest="3F0D4A569BCCAD482FAEFF8A4FB528" />
+      <File value="OpenSpan.WinInet.x64.dll" digest="8ED099CDCE6C936A8EE4A92D38FE7D" />
+    </TranslatorFiles>
+  </CompositeStudioProject>
+</DeploymentManifest>

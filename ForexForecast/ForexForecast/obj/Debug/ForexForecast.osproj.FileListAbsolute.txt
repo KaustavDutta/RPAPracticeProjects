@@ -1,0 +1,3 @@
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\ForexForecast\ForexForecast\obj\Debug\ImportTypeMap.resources
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\ForexForecast\ForexForecast\obj\Debug\MessageManifest.resources
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\ForexForecast\ForexForecast\obj\Debug\ForexForecast.osproj.GenerateResource.Cache

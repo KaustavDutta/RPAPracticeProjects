@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Pega Robotics Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "Text Adapter", "Text Adapter\Text Adapter.osproj", "{B8244111-2D08-4B44-AC1B-E2F68944AA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8244111-2D08-4B44-AC1B-E2F68944AA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8244111-2D08-4B44-AC1B-E2F68944AA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8244111-2D08-4B44-AC1B-E2F68944AA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8244111-2D08-4B44-AC1B-E2F68944AA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

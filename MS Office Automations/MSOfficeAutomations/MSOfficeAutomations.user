@@ -1,0 +1,17 @@
+<Project>
+  <Preferences>
+    <ComponentTraySettings GroupBy="-1" View="List">
+      <Automator-8D67590EC29DEFA Height="130" />
+      <Automator-8D677C3B86BAA6F Height="130" />
+      <Automator-8D6794DE33C13E8 Height="130" />
+      <Automator-8D677C07B4EE8A3 Height="130" />
+      <Automator-8D679B9F8142EC5 Height="130" />
+    </ComponentTraySettings>
+  </Preferences>
+  <Debugging>
+    <Watches>
+      <Watch ConnetableHostId="Automator-8D67590EC29DEFA\ConnectableMethod-8D6759A1501686C" MemberComponentId="Automator-8D67590EC29DEFA\ConnectableMethod-8D6759A1501686C" PropertyName="Result" />
+      <Watch ConnetableHostId="Automator-8D67590EC29DEFA\ConnectableProperties-8D676F279CCB238" MemberComponentId="Automator-8D67590EC29DEFA\TypeProxy-8D676F1A839C35F" PropertyName="Body" />
+    </Watches>
+  </Debugging>
+</Project>

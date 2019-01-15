@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="HTMLTable" fileName="HTMLTable.dll" assemblyName="HTMLTable.dll" id="Project-8D6709149D6B215" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="C4423C229D6610A3588EE53C041811">
+    <Assemblies>
+      <Assembly value="HTMLTable.dll" digest="DF95E65EB41C729A62C728A066C498" />
+      <Assembly value="HTMLTable.pdb" digest="09A1C72C93E317264B604AD357527B" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

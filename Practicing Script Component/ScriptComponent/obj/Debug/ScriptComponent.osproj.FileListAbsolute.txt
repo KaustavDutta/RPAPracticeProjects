@@ -1,0 +1,7 @@
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\bin\Debug\RuntimeConfig.xml
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\bin\Debug\ScriptComponent.dll
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\bin\Debug\ScriptComponent.pdb
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\obj\Debug\ImportTypeMap.resources
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\obj\Debug\ScriptComponent.osproj.GenerateResource.Cache
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\obj\Debug\ScriptComponent.dll
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\Practicing Script Component\ScriptComponent\obj\Debug\ScriptComponent.pdb

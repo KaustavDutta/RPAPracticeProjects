@@ -1,0 +1,11 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8D677C07B4EE8A3" className="StartTestHarness" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D67591038F561D" className="TestEmail" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D67590EC29DEFA" className="ShowUnreadEmail" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D677C3B86BAA6F" className="CreateExcel" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D6794DE33C13E8" className="OutlookAppointment" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D675912D67EFC4" className="MSOffice_GC" type="GlobalContainer" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

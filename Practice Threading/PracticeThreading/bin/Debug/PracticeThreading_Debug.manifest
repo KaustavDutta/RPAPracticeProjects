@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="PracticeThreading" fileName="PracticeThreading.dll" assemblyName="PracticeThreading.dll" id="Project-8D678D60CD9C2AC" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="19EFB3064495D65140C4847DE34957">
+    <Assemblies>
+      <Assembly value="PracticeThreading.dll" digest="B242E90E8044E9C45734501EAB14AA" />
+      <Assembly value="PracticeThreading.pdb" digest="6B3FD947CA39FC850B69FA66AD7523" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

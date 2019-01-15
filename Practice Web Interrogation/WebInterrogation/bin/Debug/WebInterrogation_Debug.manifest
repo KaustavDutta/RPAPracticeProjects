@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WebInterrogation" fileName="WebInterrogation.dll" assemblyName="WebInterrogation.dll" id="Project-8D67807E4F3364E" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="250D41F05E3BFF9388FE45DFB8DF09">
+    <Assemblies>
+      <Assembly value="WebInterrogation.dll" digest="08F5DB4481AA3E1EFA7ABB6542C5B9" />
+      <Assembly value="WebInterrogation.pdb" digest="83CBDAC618FEDC1718F4ECB6B3D657" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

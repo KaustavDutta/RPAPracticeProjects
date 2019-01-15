@@ -1,0 +1,33 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="GlobalContainer-8D679BB25B330E9" className="Global_Container1" type="GlobalContainer" isPublic="True" screenShots="" />
+    <DesignComponent id="UniversalWebAdapter-8D679BB2BA8B563" className="Universal_Web_Application1" type="Adapter" isPublic="True" screenShots="Universal_Web_Application1.screenshots.resx">
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x32.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x64.dll" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x32.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x64.dll" />
+        <BuildReference value="OpenSpan.Scout.x32.dll" />
+        <BuildReference value="OpenSpan.Scout.x64.dll" />
+        <BuildReference value="OpenSpan.Security.x32.dll" />
+        <BuildReference value="OpenSpan.Security.x64.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x32.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x64.dll" />
+        <BuildReference value="OpenSpan.Sinon.x32.dll" />
+        <BuildReference value="OpenSpan.Sinon.x64.dll" />
+        <BuildReference value="OpenSpan.Utilities.x32.dll" />
+        <BuildReference value="OpenSpan.Utilities.x64.dll" />
+        <BuildReference value="OpenSpan.WER.x32.dll" />
+        <BuildReference value="OpenSpan.WER.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="RecordingContainer-8D679BBB551DBCA" className="Recording1" type="Recording" isPublic="True" screenShots="Recording1.screenshots.resx" />
+    <DesignComponent id="Automator-8D679BB1BC60B2B" className="Automation1" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D679BC9F34E712" className="RecordingAutomation1" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

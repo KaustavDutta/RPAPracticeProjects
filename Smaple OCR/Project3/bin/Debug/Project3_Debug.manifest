@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="Project3" fileName="Project3.dll" assemblyName="Project3.dll" id="Project-8D5FC4E389FF869" version="8.0.1094.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="FB86A235B1B8D659C7061A688CAB99">
+    <Assemblies>
+      <Assembly value="Project3.dll" digest="1BC4EC13B406E2EDBDBD16AC347874" />
+      <Assembly value="Project3.pdb" digest="E9EBA73724F7E96C6B7C58FF5E8B94" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

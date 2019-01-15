@@ -1,0 +1,12 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WebInterrogation" fileName="WebInterrogation.dll" assemblyName="WebInterrogation.dll" id="Project-8D67807E4F3364E" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Deployment" obfuscated="False" runtime="True" digest="250D41F05E3BFF9388FE45DFB8DF09">
+    <Assemblies>
+      <Assembly value="WebInterrogation.dll" digest="E414F98742E59D8830E0A9A4280ED3" />
+    </Assemblies>
+    <TranslatorFiles>
+      <File value="OpenSpan.Adapters.Virtual.dll" digest="B8EB176E846707BEC401BA75DB4C53" />
+      <File value="OpenSpan.WinInet.x32.dll" digest="3F0D4A569BCCAD482FAEFF8A4FB528" />
+      <File value="OpenSpan.WinInet.x64.dll" digest="8ED099CDCE6C936A8EE4A92D38FE7D" />
+    </TranslatorFiles>
+  </CompositeStudioProject>
+</DeploymentManifest>

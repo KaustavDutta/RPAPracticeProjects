@@ -1,0 +1,10 @@
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\bin\Debug\OSComponents.Utilities.TestHarness.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\bin\Debug\RuntimeConfig.xml
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\bin\Debug\MSOfficeAutomations.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\bin\Debug\MSOfficeAutomations.pdb
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\ImportTypeMap.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\MessageManifest.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\MSOfficeAutomations.osproj.GenerateResource.Cache
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\MSOfficeAutomations.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\MSOfficeAutomations.pdb
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\MS Office Automations\MSOfficeAutomations\obj\Debug\MSOfficeAutomations.osprojResolveAssemblyReference.cache

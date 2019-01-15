@@ -1,0 +1,9 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="MSOfficeAutomations" fileName="MSOfficeAutomations.dll" assemblyName="MSOfficeAutomations.dll" id="Project-8D67590EC608B94" version="8.0.1089.0" deploymentVersion="1.1" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="B2E31DD6A129A3FDCCCB5527EBB081">
+    <Assemblies>
+      <Assembly value="MSOfficeAutomations.dll" digest="368C3EBF1D7A3099548FABC08FBB9B" />
+      <Assembly value="MSOfficeAutomations.pdb" digest="67E7A4E6CF7FAEFD3C9B9EA1BF881A" />
+      <Assembly value="OSComponents.Utilities.TestHarness.dll" digest="B88838F7D721D25827B94DE25B4287" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

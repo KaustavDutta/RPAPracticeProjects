@@ -1,0 +1,7 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8D67572BD1E0733" className="Automation1" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D6757A7F2031BF" className="Windows_Form1" type="WinForm" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

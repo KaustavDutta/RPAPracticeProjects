@@ -1,0 +1,54 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="WindowsAdapter-8D6174AB65EC752" className="CRM" type="Adapter" isPublic="True" screenShots="CRM.screenshots.resx">
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="OpenSpan.ActiveX.x32.dll" />
+        <BuildReference value="OpenSpan.ActiveX.x64.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x32.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x64.dll" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.IPC.tlb" />
+        <BuildReference value="OpenSpan.Native.IPC.x32.dll" />
+        <BuildReference value="OpenSpan.Native.IPC.x64.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x32.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x64.dll" />
+        <BuildReference value="OpenSpan.Scout.x32.dll" />
+        <BuildReference value="OpenSpan.Scout.x64.dll" />
+        <BuildReference value="OpenSpan.Security.x32.dll" />
+        <BuildReference value="OpenSpan.Security.x64.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x32.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x64.dll" />
+        <BuildReference value="OpenSpan.Sinon.x32.dll" />
+        <BuildReference value="OpenSpan.Sinon.x64.dll" />
+        <BuildReference value="OpenSpan.Utilities.x32.dll" />
+        <BuildReference value="OpenSpan.Utilities.x64.dll" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.delegates.tlb" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.tlb" />
+        <BuildReference value="OpenSpan.WER.x32.dll" />
+        <BuildReference value="OpenSpan.WER.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D61C9A3624281D" className="CRM_E_GetCustInfo_ActivityStarted" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="BooleanExpression-8D61C9A8F66BCB8" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D61C90C17D36D3" className="CRM_E_CRMChild_Closing" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61C8D6E256B3C" className="CRM_E_CRMChild_Created" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D617EBACF0C172" className="CRM_E_CRMfrmLogin_Created" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61C996833AC38" className="CRM_E_IntMgr_InteractionStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61CA249DB0919" className="CRM_E_CRMChild_Activated" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61CA475006982" className="CRM_E_ActivateMDIWin_ActivityStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D61C6F6E989F16" className="_CRM_GC" type="GlobalContainer" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

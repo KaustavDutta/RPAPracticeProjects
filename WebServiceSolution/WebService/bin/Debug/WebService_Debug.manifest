@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WebService" fileName="WebService.dll" assemblyName="WebService.dll" id="Project-8D674D3AD27A4F5" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="407723FF3FEBA6A458C7802E7E03E3">
+    <Assemblies>
+      <Assembly value="WebService.dll" digest="8831692F6ECADBA3687A7FFD6A9E40" />
+      <Assembly value="WebService.pdb" digest="5D4CBBD12071BEA3D3CB4F9830EE18" />
+      <Assembly value="OSComponents.Utilities.TestHarness.dll" digest="B88838F7D721D25827B94DE25B4287" />
+    </Assemblies>
+  </CompositeStudioProject>
+=======
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WebService" fileName="WebService.dll" assemblyName="WebService.dll" id="Project-8D674D3AD27A4F5" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="407723FF3FEBA6A458C7802E7E03E3">
+    <Assemblies>
+      <Assembly value="WebService.dll" digest="8831692F6ECADBA3687A7FFD6A9E40" />
+      <Assembly value="WebService.pdb" digest="5D4CBBD12071BEA3D3CB4F9830EE18" />
+      <Assembly value="OSComponents.Utilities.TestHarness.dll" digest="B88838F7D721D25827B94DE25B4287" />
+    </Assemblies>
+  </CompositeStudioProject>
+>>>>>>> Add robotic studio files
+</DeploymentManifest>

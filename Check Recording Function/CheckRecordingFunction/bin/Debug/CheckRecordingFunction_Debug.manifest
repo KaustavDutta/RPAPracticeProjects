@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="CheckRecordingFunction" fileName="CheckRecordingFunction.dll" assemblyName="CheckRecordingFunction.dll" id="Project-8D679BB1BF07D8D" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="EBE125294DEA0BFE7BFC48C2FA1F30">
+    <Assemblies>
+      <Assembly value="CheckRecordingFunction.dll" digest="8D65C21D1D5CFE18413A8861132D9D" />
+      <Assembly value="CheckRecordingFunction.pdb" digest="4506CD63E2A1DB3813B21C64827182" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

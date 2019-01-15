@@ -1,0 +1,8 @@
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\bin\Debug\RuntimeConfig.xml
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\bin\Debug\QueryDB.dll
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\bin\Debug\QueryDB.pdb
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\obj\Debug\QueryDB.osprojResolveAssemblyReference.cache
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\obj\Debug\ImportTypeMap.resources
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\obj\Debug\QueryDB.osproj.GenerateResource.Cache
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\obj\Debug\QueryDB.dll
+c:\users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\AccessingDatabase\QueryDB\obj\Debug\QueryDB.pdb

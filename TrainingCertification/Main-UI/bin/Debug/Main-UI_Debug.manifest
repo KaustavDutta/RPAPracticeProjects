@@ -1,0 +1,10 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="Main_UI" fileName="Main_UI.dll" assemblyName="Main_UI.dll" id="Project-8D61C68D761A801" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="CCC98B1CA8A85823C3BFA939E9B730">
+    <Assemblies>
+      <Assembly value="Main_UI.dll" digest="000BAC0487BE27F9146A4EDE655A75" />
+      <Assembly value="Main_UI.pdb" digest="503D45DDEBE2DEF5A15FAE06431049" />
+      <Assembly value="CRMAdapter.dll" digest="0005AB975BAB3AB315DF97FFD2EC81" />
+      <Assembly value="TrainingWebAdapter.dll" digest="40C2DB7E3C276FB4F5CCD768464D71" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="QueryDB" fileName="QueryDB.dll" assemblyName="QueryDB.dll" id="Project-8D674FFC4D6B2F6" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="90B95E680DF90A71238DC812DFB55A">
+    <Assemblies>
+      <Assembly value="QueryDB.dll" digest="EB58D870C396ECD543AB6584281860" />
+      <Assembly value="QueryDB.pdb" digest="35D47C9BAD39B8CD8E3DAFD8DEE8AA" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\OSComponents.Utilities.TestHarness.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\RuntimeConfig.xml
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\WebService.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\WebService.pdb
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\ImportTypeMap.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\MessageManifest.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.osproj.GenerateResource.Cache
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.pdb
+=======
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\OSComponents.Utilities.TestHarness.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\RuntimeConfig.xml
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\WebService.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\bin\Debug\WebService.pdb
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\ImportTypeMap.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\MessageManifest.resources
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.osproj.GenerateResource.Cache
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.dll
+C:\Users\kaustav.c.dutta\Documents\Pega Robotics Studio\Projects\WebServiceSolution\WebService\obj\Debug\WebService.pdb
+>>>>>>> Add robotic studio files

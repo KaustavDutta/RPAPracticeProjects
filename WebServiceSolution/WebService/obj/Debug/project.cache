@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="DesignForm-8D674EA871455B4" className="GetCode" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D674E62A3C5F98" className="StartTest" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+=======
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="DesignForm-8D674EA871455B4" className="GetCode" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D674E62A3C5F98" className="StartTest" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+>>>>>>> Add robotic studio files
+</Cache>

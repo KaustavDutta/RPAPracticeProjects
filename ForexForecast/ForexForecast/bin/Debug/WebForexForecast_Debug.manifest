@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WebForexForecast" fileName="ForexForecast.dll" assemblyName="ForexForecast.dll" id="Project-8D674A88C4E942A" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="8C4C863C2B137760724C643AA35367">
+    <Assemblies>
+      <Assembly value="ForexForecast.dll" digest="75554E0CEA19BBF24C80A81447888E" />
+      <Assembly value="ForexForecast.pdb" digest="4A402A881D73DA2F127F208F567400" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

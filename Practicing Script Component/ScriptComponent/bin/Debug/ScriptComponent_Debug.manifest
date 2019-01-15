@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="ScriptComponent" fileName="ScriptComponent.dll" assemblyName="ScriptComponent.dll" id="Project-8D678880456277F" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="F0AE50887175833132A11E051819B6">
+    <Assemblies>
+      <Assembly value="ScriptComponent.dll" digest="2FD0861BE695D767FE50CBC0E590FC" />
+      <Assembly value="ScriptComponent.pdb" digest="37DE4CA8D34D19C61E67C67625B06E" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

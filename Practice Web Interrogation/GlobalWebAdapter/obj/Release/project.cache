@@ -1,0 +1,29 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="UniversalWebAdapter-8D678748AF6E3A1" className="InterrogateMelbourneEvents" type="Adapter" isPublic="True" screenShots="InterrogateMelbourneEvents.screenshots.resx">
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x32.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x64.dll" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x32.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x64.dll" />
+        <BuildReference value="OpenSpan.Scout.x32.dll" />
+        <BuildReference value="OpenSpan.Scout.x64.dll" />
+        <BuildReference value="OpenSpan.Security.x32.dll" />
+        <BuildReference value="OpenSpan.Security.x64.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x32.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x64.dll" />
+        <BuildReference value="OpenSpan.Sinon.x32.dll" />
+        <BuildReference value="OpenSpan.Sinon.x64.dll" />
+        <BuildReference value="OpenSpan.Utilities.x32.dll" />
+        <BuildReference value="OpenSpan.Utilities.x64.dll" />
+        <BuildReference value="OpenSpan.WER.x32.dll" />
+        <BuildReference value="OpenSpan.WER.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+      </BuildReferences>
+    </DesignComponent>
+  </DesignComponents>
+</Cache>

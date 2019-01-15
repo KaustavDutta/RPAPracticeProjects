@@ -1,0 +1,46 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="WindowsAdapter-8D5FC4E412B7869" className="PDN" type="Adapter" isPublic="True" screenShots="PDN.screenshots.resx">
+      <Translators>
+        <Translator value="OpenSpan.WinInet.x32.dll" />
+        <Translator value="OpenSpan.WinInet.x64.dll" />
+      </Translators>
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="OpenSpan.ActiveX.x32.dll" />
+        <BuildReference value="OpenSpan.ActiveX.x64.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x32.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x64.dll" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.IPC.tlb" />
+        <BuildReference value="OpenSpan.Native.IPC.x32.dll" />
+        <BuildReference value="OpenSpan.Native.IPC.x64.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x32.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x64.dll" />
+        <BuildReference value="OpenSpan.Scout.x32.dll" />
+        <BuildReference value="OpenSpan.Scout.x64.dll" />
+        <BuildReference value="OpenSpan.Security.x32.dll" />
+        <BuildReference value="OpenSpan.Security.x64.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x32.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x64.dll" />
+        <BuildReference value="OpenSpan.Sinon.x32.dll" />
+        <BuildReference value="OpenSpan.Sinon.x64.dll" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x32.dll" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x64.dll" />
+        <BuildReference value="OpenSpan.Utilities.x32.dll" />
+        <BuildReference value="OpenSpan.Utilities.x64.dll" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.delegates.tlb" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.tlb" />
+        <BuildReference value="OpenSpan.WER.x32.dll" />
+        <BuildReference value="OpenSpan.WER.x64.dll" />
+        <BuildReference value="OpenSpan.WinInet.x32.dll" />
+        <BuildReference value="OpenSpan.WinInet.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="DesignForm-8D5FC4F1F926EFA" className="Windows_Form1" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D5FC4F306BEA04" className="Automation1" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

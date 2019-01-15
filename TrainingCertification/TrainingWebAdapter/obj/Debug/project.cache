@@ -1,0 +1,49 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="WebAdapter-8D6180E6EC660AE" className="ACMESearchSystem" type="Adapter" isPublic="True" screenShots="ACMESearchSystem.screenshots.resx">
+      <Translators>
+        <Translator value="OpenSpan.WinInet.x32.dll" />
+        <Translator value="OpenSpan.WinInet.x64.dll" />
+      </Translators>
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="OpenSpan.ActiveX.x32.dll" />
+        <BuildReference value="OpenSpan.ActiveX.x64.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x32.dll" />
+        <BuildReference value="OpenSpan.Brokers.Windows.x64.dll" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.Native.IPC.x32.dll" />
+        <BuildReference value="OpenSpan.Native.IPC.x64.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x32.dll" />
+        <BuildReference value="OpenSpan.RemoteFunctions.x64.dll" />
+        <BuildReference value="OpenSpan.Scout.x32.dll" />
+        <BuildReference value="OpenSpan.Scout.x64.dll" />
+        <BuildReference value="OpenSpan.Security.x32.dll" />
+        <BuildReference value="OpenSpan.Security.x64.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x32.dll" />
+        <BuildReference value="OpenSpan.SharedMemory.x64.dll" />
+        <BuildReference value="OpenSpan.Sinon.x32.dll" />
+        <BuildReference value="OpenSpan.Sinon.x64.dll" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x32.dll" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x64.dll" />
+        <BuildReference value="OpenSpan.Utilities.x32.dll" />
+        <BuildReference value="OpenSpan.Utilities.x64.dll" />
+        <BuildReference value="OpenSpan.WER.x32.dll" />
+        <BuildReference value="OpenSpan.WER.x64.dll" />
+        <BuildReference value="OpenSpan.WinInet.x32.dll" />
+        <BuildReference value="OpenSpan.WinInet.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D61BB34C794000" className="ACME_P_GetNearestStore" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61AF1136EA050" className="ACME_P_SearchByZip" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61BB4D37F50A3" className="ACME_E_btnTestClicked" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D618A61B1E2690" className="frmTest" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D618D41906AAED" className="ACME_P_NavToHome" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D618D98A240C62" className="ACME_P_SignIn" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D61EEA31CE706E" className="ACME_E_GetNearestStore_ActivityStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D61C6F8E1208C1" className="_ACME_GC" type="GlobalContainer" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>
